@@ -141,6 +141,11 @@
 	.when('/contributors/AmitRakesh', {
 		templateUrl: '/static/templates/contributors/amitrakesh.html'
 	})
+	
+    .when('/contributors/jlin', {
+      templateUrl: '/static/templates/contributors/jlin.html'
+    })
+	
       
 	 
     .otherwise('/');   
